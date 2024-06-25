@@ -1,0 +1,6 @@
+git clone https://github.com/Morganamilo/paru
+
+sudo pacman -S --noconfirm thunar-archive-plugin xarchiver p7zip unzip papirus-icon-theme ttf-font-awesome ttf-jetbrains-mono lxappearance vlc code telegram-desktop arandr autorandr pyenv zsh ripgrep go lazygit nodejs npm docker docker-compose rofi thunar nitrogen bluez bluez-utils timeshift pamixer brillo dunst firefox linux-headers linux-firmware xdg-user-dirs xdg-user-dirs-gtk gvfs libx11 libxft libxinerama xorg-server xorg-xsetroot xorg-xinit lsd bat exa
+xfce-polkit nordic-theme 
+
+
